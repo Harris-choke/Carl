@@ -3,7 +3,6 @@ package com.carl.practice;
 import org.junit.Test;
 
 
-
 public class Application {
 
     @Test
